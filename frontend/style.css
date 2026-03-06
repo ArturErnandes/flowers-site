@@ -1,3 +1,15 @@
 h1 {
-    color: pink;
+    font-family: "Indie Flower", cursive;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 800;
+    color: #17302d;
+}
+
+body {
+    background-color: #f8f5ec;
+}
+
+img {
+    margin: auto;
 }
